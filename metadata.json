@@ -1,0 +1,6 @@
+{
+  "name": "EcoSmart Ai",
+  "description": "AI-powered Waste Management Solution for Smart India Hackathon (SIH25060)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
